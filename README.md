@@ -1,6 +1,6 @@
 # hyperdefined
 
-I mainly write Spigot/Paper plugins.
+I mainly try to write Spigot/Paper plugins.
 
 * [Website](https://hyper.lol)
 * [Keybase](https://keybase.io/deactivated)
