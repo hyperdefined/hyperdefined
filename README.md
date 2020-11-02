@@ -5,7 +5,7 @@ I am hyperdefined. I mainly develop Minecraft plugins.
 
 #### 👷 Check out what I'm currently working on
 
-- [hyperdefined/BungeeBlockVersion](https://github.com/hyperdefined/BungeeBlockVersion) - A Bungee/Waterfall plugin that will block players from connecting with certain versions. (2 days ago)
+- [hyperdefined/BungeeBlockVersion](https://github.com/hyperdefined/BungeeBlockVersion) - A Bungee/Waterfall plugin that will block players from connecting with certain versions. (3 days ago)
 - [DESTROYMC-NET/DMC-MOTD](https://github.com/DESTROYMC-NET/DMC-MOTD) - Custom MOTD system for DESTROYMC.NET. (1 week ago)
 - [hyperdefined/TorchRefill](https://github.com/hyperdefined/TorchRefill) -  (1 week ago)
 - [hyperdefined/EzHomes](https://github.com/hyperdefined/EzHomes) - A super easy to use home plugin. (1 week ago)
