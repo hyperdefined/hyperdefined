@@ -5,11 +5,11 @@ I am hyperdefined. I mainly develop Minecraft plugins.
 
 #### 👷 Check out what I'm currently working on
 
-- [DESTROYMC-NET/SimpleMessage](https://github.com/DESTROYMC-NET/SimpleMessage) - A simple messaging plugin. (2 days ago)
-- [DESTROYMC-NET/NoNetherFun](https://github.com/DESTROYMC-NET/NoNetherFun) - A simple plugin to disable block breaking and placing above the Nether roof. (2 days ago)
-- [DESTROYMC-NET/PartyChat](https://github.com/DESTROYMC-NET/PartyChat) - A simple party chat plugin. (2 days ago)
-- [DESTROYMC-NET/PlayerTracker](https://github.com/DESTROYMC-NET/PlayerTracker) - A plugin to track first join and last logout times. (2 days ago)
-- [DESTROYMC-NET/WaitingServerUtilities](https://github.com/DESTROYMC-NET/WaitingServerUtilities) - Waiting Server controller plugin for DESTROYMC.NET (2 days ago)
+- [hyperdefined/EzHomes](https://github.com/hyperdefined/EzHomes) - A super easy to use home plugin. (1 day ago)
+- [hyperdefined/CompassTracker](https://github.com/hyperdefined/CompassTracker) - A hunter vs. speedrunner plugin for Minecraft. (1 day ago)
+- [hyperdefined/BungeeBlockVersion](https://github.com/hyperdefined/BungeeBlockVersion) - A Bungee/Waterfall plugin that will block players from connecting with certain versions. (1 day ago)
+- [DESTROYMC-NET/DMC-MOTD](https://github.com/DESTROYMC-NET/DMC-MOTD) - Custom MOTD system. Allows for random and fixed MOTDs. Supports Spigot/Paper and BungeeCord/Waterfall servers.  (1 day ago)
+- [DESTROYMC-NET/PlayerTracker](https://github.com/DESTROYMC-NET/PlayerTracker) - A plugin to track first join and last logout times. (3 days ago)
 
 #### 🌱 My latest projects
 
