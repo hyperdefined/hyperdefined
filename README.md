@@ -5,11 +5,11 @@ I am hyperdefined. I mainly develop Minecraft plugins.
 
 #### 👷 Check out what I'm currently working on
 
-- [hyperdefined/EzHomes](https://github.com/hyperdefined/EzHomes) - A super easy to use home plugin. (1 day ago)
-- [hyperdefined/CompassTracker](https://github.com/hyperdefined/CompassTracker) - A hunter vs. speedrunner plugin for Minecraft. (1 day ago)
-- [hyperdefined/BungeeBlockVersion](https://github.com/hyperdefined/BungeeBlockVersion) - A Bungee/Waterfall plugin that will block players from connecting with certain versions. (1 day ago)
-- [DESTROYMC-NET/DMC-MOTD](https://github.com/DESTROYMC-NET/DMC-MOTD) - Custom MOTD system. Allows for random and fixed MOTDs. Supports Spigot/Paper and BungeeCord/Waterfall servers.  (1 day ago)
-- [DESTROYMC-NET/PlayerTracker](https://github.com/DESTROYMC-NET/PlayerTracker) - A plugin to track first join and last logout times. (3 days ago)
+- [hyperdefined/EzHomes](https://github.com/hyperdefined/EzHomes) - A super easy to use home plugin. (2 days ago)
+- [hyperdefined/CompassTracker](https://github.com/hyperdefined/CompassTracker) - A hunter vs. speedrunner plugin for Minecraft. (2 days ago)
+- [hyperdefined/BungeeBlockVersion](https://github.com/hyperdefined/BungeeBlockVersion) - A Bungee/Waterfall plugin that will block players from connecting with certain versions. (2 days ago)
+- [DESTROYMC-NET/DMC-MOTD](https://github.com/DESTROYMC-NET/DMC-MOTD) - Custom MOTD system. Allows for random and fixed MOTDs. Supports Spigot/Paper and BungeeCord/Waterfall servers.  (2 days ago)
+- [DESTROYMC-NET/PlayerTracker](https://github.com/DESTROYMC-NET/PlayerTracker) - A plugin to track first join and last logout times. (4 days ago)
 
 #### 🌱 My latest projects
 
