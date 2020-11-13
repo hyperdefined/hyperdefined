@@ -5,11 +5,11 @@ I am hyperdefined. I mainly develop Minecraft plugins.
 
 #### 👷 Check out what I'm currently working on
 
+- [hyperdefined/AnarchyStats](https://github.com/hyperdefined/AnarchyStats) - Get server age, total players, and world size in a nice little command. (1 day ago)
 - [hyperdefined/CompassTracker](https://github.com/hyperdefined/CompassTracker) - A hunter vs. speedrunner plugin for Minecraft. (1 day ago)
 - [hyperdefined/TorchRefill](https://github.com/hyperdefined/TorchRefill) - Automatically put torches into your hand! (1 day ago)
 - [hyperdefined/BungeeBlockVersion](https://github.com/hyperdefined/BungeeBlockVersion) - A Bungee/Waterfall plugin that will block players from connecting with certain versions. (1 day ago)
 - [hyperdefined/EzHomes](https://github.com/hyperdefined/EzHomes) - A super easy to use home plugin. (1 day ago)
-- [DESTROYMC-NET/DMC-MOTD](https://github.com/DESTROYMC-NET/DMC-MOTD) - Custom MOTD system. Allows for random and fixed MOTDs. Supports Spigot/Paper and BungeeCord/Waterfall servers.  (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -17,15 +17,15 @@ I am hyperdefined. I mainly develop Minecraft plugins.
 - [hyperdefined/BungeeBlockVersion](https://github.com/hyperdefined/BungeeBlockVersion) - A Bungee/Waterfall plugin that will block players from connecting with certain versions.
 - [hyperdefined/EzHomes](https://github.com/hyperdefined/EzHomes) - A super easy to use home plugin.
 - [hyperdefined/CompassTracker](https://github.com/hyperdefined/CompassTracker) - A hunter vs. speedrunner plugin for Minecraft.
-- [hyperdefined/AnarchyStats](https://github.com/hyperdefined/AnarchyStats) - A Spigot plugin to get total players and world size.
+- [hyperdefined/AnarchyStats](https://github.com/hyperdefined/AnarchyStats) - Get server age, total players, and world size in a nice little command.
 
 #### 🔭 Latest releases I've contributed to
 
-- [hyperdefined/TorchRefill](https://github.com/hyperdefined/TorchRefill) ([1.0](https://github.com/hyperdefined/TorchRefill/releases/tag/1.0), 4 days ago) - Automatically put torches into your hand!
-- [hyperdefined/BungeeBlockVersion](https://github.com/hyperdefined/BungeeBlockVersion) ([1.2](https://github.com/hyperdefined/BungeeBlockVersion/releases/tag/1.2), 5 days ago) - A Bungee/Waterfall plugin that will block players from connecting with certain versions.
-- [hyperdefined/EzHomes](https://github.com/hyperdefined/EzHomes) ([1.2.1](https://github.com/hyperdefined/EzHomes/releases/tag/1.2.1), 3 weeks ago) - A super easy to use home plugin.
+- [hyperdefined/EzHomes](https://github.com/hyperdefined/EzHomes) ([1.3](https://github.com/hyperdefined/EzHomes/releases/tag/1.3), 1 day ago) - A super easy to use home plugin.
+- [hyperdefined/AnarchyStats](https://github.com/hyperdefined/AnarchyStats) ([1.3](https://github.com/hyperdefined/AnarchyStats/releases/tag/1.3), 1 day ago) - Get server age, total players, and world size in a nice little command.
+- [hyperdefined/TorchRefill](https://github.com/hyperdefined/TorchRefill) ([1.0](https://github.com/hyperdefined/TorchRefill/releases/tag/1.0), 5 days ago) - Automatically put torches into your hand!
+- [hyperdefined/BungeeBlockVersion](https://github.com/hyperdefined/BungeeBlockVersion) ([1.2](https://github.com/hyperdefined/BungeeBlockVersion/releases/tag/1.2), 6 days ago) - A Bungee/Waterfall plugin that will block players from connecting with certain versions.
 - [hyperdefined/CompassTracker](https://github.com/hyperdefined/CompassTracker) ([1.1.1](https://github.com/hyperdefined/CompassTracker/releases/tag/1.1.1), 3 weeks ago) - A hunter vs. speedrunner plugin for Minecraft.
-- [hyperdefined/AnarchyStats](https://github.com/hyperdefined/AnarchyStats) ([1.2](https://github.com/hyperdefined/AnarchyStats/releases/tag/1.2), 6 months ago) - A Spigot plugin to get total players and world size.
 
 * [Website](https://hyper.lol)
 * [Keybase](https://keybase.io/deactivated)
