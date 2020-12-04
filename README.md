@@ -7,7 +7,7 @@ I am hyperdefined. I mainly develop Minecraft plugins.
 
 - [hyperdefined/CompassTracker](https://github.com/hyperdefined/CompassTracker) - A hunter vs. speedrunner plugin for Minecraft. (1 week ago)
 - [hyperdefined/AnarchyStats](https://github.com/hyperdefined/AnarchyStats) - Get server age, total players, and world size in a nice little command. (2 weeks ago)
-- [DESTROYMC-NET/SimpleMessage](https://github.com/DESTROYMC-NET/SimpleMessage) - A simple messaging plugin. (2 weeks ago)
+- [DESTROYMC-NET/SimpleMessage](https://github.com/DESTROYMC-NET/SimpleMessage) - A simple messaging plugin. (3 weeks ago)
 - [hyperdefined/TorchRefill](https://github.com/hyperdefined/TorchRefill) - Automatically put torches into your hand! (3 weeks ago)
 - [hyperdefined/BungeeBlockVersion](https://github.com/hyperdefined/BungeeBlockVersion) - A Bungee/Waterfall plugin that will block players from connecting with certain versions. (3 weeks ago)
 
