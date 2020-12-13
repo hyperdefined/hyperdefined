@@ -5,10 +5,10 @@ I am hyperdefined. I mainly develop Minecraft plugins.
 
 #### 👷 Check out what I'm currently working on
 
-- [hyperdefined/AnarchyStats](https://github.com/hyperdefined/AnarchyStats) - Get server age, total players, and world size in a nice little command. (3 days ago)
-- [hyperdefined/CompassTracker](https://github.com/hyperdefined/CompassTracker) - A hunter vs. speedrunner plugin for Minecraft. (3 days ago)
-- [DESTROYMC-NET/PartyChat](https://github.com/DESTROYMC-NET/PartyChat) - A simple party chat plugin. (3 days ago)
-- [DESTROYMC-NET/SimpleMessage](https://github.com/DESTROYMC-NET/SimpleMessage) - A simple messaging plugin. (4 weeks ago)
+- [hyperdefined/AnarchyStats](https://github.com/hyperdefined/AnarchyStats) - Get server age, total players, and world size in a nice little command. (4 days ago)
+- [hyperdefined/CompassTracker](https://github.com/hyperdefined/CompassTracker) - A hunter vs. speedrunner plugin for Minecraft. (4 days ago)
+- [DESTROYMC-NET/PartyChat](https://github.com/DESTROYMC-NET/PartyChat) - A simple party chat plugin. (4 days ago)
+- [DESTROYMC-NET/SimpleMessage](https://github.com/DESTROYMC-NET/SimpleMessage) - A simple messaging plugin. (1 month ago)
 - [hyperdefined/BungeeBlockVersion](https://github.com/hyperdefined/BungeeBlockVersion) - A Bungee/Waterfall plugin that will block players from connecting with certain versions. (1 month ago)
 
 #### 🌱 My latest projects
