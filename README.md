@@ -5,7 +5,7 @@ I am hyperdefined. I mainly develop Minecraft plugins.
 
 #### 👷 Check out what I'm currently working on
 
-- [hyperdefined/EzHomes](https://github.com/hyperdefined/EzHomes) - A super easy to use home plugin. (5 days ago)
+- [hyperdefined/EzHomes](https://github.com/hyperdefined/EzHomes) - A super easy to use home plugin. (6 days ago)
 - [hyperdefined/AnarchyStats](https://github.com/hyperdefined/AnarchyStats) - Get server age, total players, and world size in a nice little command. (1 week ago)
 - [DESTROYMC-NET/PartyChat](https://github.com/DESTROYMC-NET/PartyChat) - A simple party chat plugin. (1 week ago)
 - [hyperdefined/CompassTracker](https://github.com/hyperdefined/CompassTracker) - A hunter vs. speedrunner plugin for Minecraft. (1 week ago)
