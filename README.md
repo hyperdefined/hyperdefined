@@ -30,7 +30,3 @@ I am hyperdefined. I mainly develop Minecraft plugins.
 * [Website](https://hyper.lol)
 * [Keybase](https://keybase.io/deactivated)
 * [Reddit](https://www.reddit.com/user/hyperdefined)
-
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
