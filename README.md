@@ -6,3 +6,5 @@ I am hyperdefined. I do random things.
 * [Website](https://hyper.lol)
 * [Keybase](https://keybase.io/deactivated)
 * [Reddit](https://www.reddit.com/user/hyperdefined)
+
+[![hyperdefineds's github stats](https://github-readme-stats.vercel.app/api?username=hyperdefined&count_private=true&show_icons=true&theme=tokyonight&disable_animations=true&include_all_commits=true)
