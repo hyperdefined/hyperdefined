@@ -11,6 +11,6 @@ I am hyperdefined. I do random things.
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Java       1 min           ████████████████████░░░░░   80.02 % 
 ```
 <!--END_SECTION:waka-->
