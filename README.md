@@ -11,7 +11,9 @@ I am hyperdefined. I do random things.
 
 <!--START_SECTION:waka-->
 ```text
-Java       10 mins         █████████████████████░░░░   83.53 % 
-YAML       1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Week: 04 February, 2021 - 11 February, 2021
+
+Java       10 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀   83.53 % 
+YAML       1 min           ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.53 % 
 ```
 <!--END_SECTION:waka-->
