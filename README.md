@@ -15,7 +15,7 @@ I make Minecraft plugins, play games, and watch anime.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 May, 2021 - 16 May, 2021
+Week: 10 May, 2021 - 17 May, 2021
 
 Java   49 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.54 % 
 CSS    44 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.93 % 
