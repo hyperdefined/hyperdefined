@@ -4,7 +4,7 @@
 
 Student, developer, and complete idiot.
 
-I make Minecraft plugins, play games, and watch anime.
+I code things, play video games, and watch anime.
 
 <a href="https://reddit.com/user/hyperdefined"><img src="https://img.shields.io/badge/-reddit-orange?style=flat-square"/></a>
 <a href="https://keybase.io/deactivated"><img src="https://img.shields.io/badge/-keybase-brightgreen?style=flat-square"/></a>
