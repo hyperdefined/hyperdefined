@@ -5,13 +5,17 @@
 Student, developer, and complete idiot.
 
 I code things, play video games, and watch anime.
-
+<details>
+  <summary>Socials</summary><br>
 <a href="https://reddit.com/user/hyperdefined"><img src="https://img.shields.io/badge/-reddit-orange?style=flat-square"/></a>
 <a href="https://keybase.io/deactivated"><img src="https://img.shields.io/badge/-keybase-brightgreen?style=flat-square"/></a>
 <a href="https://hyper.lol"><img src="https://img.shields.io/badge/-website-blue?style=flat-square"/></a>
 <a href="https://discord.bio/p/hyperdefined"><img src="https://img.shields.io/badge/-discord-blueviolet?style=flat-square"/></a>
-
-![hyperdefineds's github stats](https://github-readme-stats.vercel.app/api?username=hyperdefined&count_private=true&show_icons=true&theme=tokyonight&disable_animations=true&include_all_commits=true)
+</details>
+<details>
+  <summary>Stats</summary><br>
+  
+  ![hyperdefineds's github stats](https://github-readme-stats.vercel.app/api?username=hyperdefined&count_private=true&show_icons=true&theme=tokyonight&disable_animations=true&include_all_commits=true)
 
 <!--START_SECTION:waka-->
 ```text
@@ -20,3 +24,4 @@ Week: 31 May, 2021 - 07 June, 2021
 Java         18 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦   98.06 % 
 ```
 <!--END_SECTION:waka-->
+</details>
