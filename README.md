@@ -4,7 +4,7 @@
 
 Student, developer, furry, and complete idiot.
 
-<a href="https://reddit.com/user/hyperdefined">Reddit</a> | <a href="https://keybase.io/deactivated">Keybase</a> | <a href="https://hyper.lol">Website</a> | <a href="https://discord.bio/p/hyperdefined">Discord</a> | <a href="https://steamcommunity.com/id/hyperdefined/">Steam</a>
+<a href="https://reddit.com/user/hyperdefined">Reddit</a> | <a href="https://keybase.io/deactivated">Keybase</a> | <a href="https://hyper.lol">Website</a> | <a href="https://discord.bio/p/hyperdefined">Discord</a> | <a href="https://steamcommunity.com/id/hyperdefined/">Steam</a> | <a href="https://twitter.com/hyperdefined/">Twitter</a>
 
 <details>
   <summary>Stats</summary><br>
