@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://legoshi.moe/img/banner.jpg"/>
+<img src="https://legoshi.hyper.lol/img/banner.jpg"/>
 <h1>hyperdefined</h1>
 
 Student, developer, furry, and complete idiot.
