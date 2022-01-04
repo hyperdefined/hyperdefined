@@ -15,7 +15,7 @@ Student, developer, furry, and complete idiot.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 December, 2021 - 02 January, 2022
+Week: 28 December, 2021 - 03 January, 2022
 
 Java   1 hr 36 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀   66.20 % 
 YAML   25 mins         ⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.29 % 
