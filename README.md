@@ -14,13 +14,15 @@ Student, developer, furry, and complete idiot.
   ![hyperdefineds's github stats](https://github-readme-stats.vercel.app/api?username=hyperdefined&count_private=true&show_icons=true&theme=tokyonight&disable_animations=true&include_all_commits=true)
 
 <!--START_SECTION:waka-->
-```text
-From: 17 February, 2022 - To: 24 February, 2022
 
-Java   53 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀   87.85 % 
-XML    4 mins          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.97 % 
-YAML   2 mins          ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.18 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+Java   55 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀   88.08 %
+XML    4 mins          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.79 %
+YAML   2 mins          ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.13 %
 ```
+
 <!--END_SECTION:waka-->
 </details>
 </div>
