@@ -16,7 +16,7 @@ Student, developer, furry, and complete idiot.
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 April 2022 - To: 08 April 2022
+From: 02 April 2022 - To: 09 April 2022
 
 Java       4 hrs 42 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀   80.18 %
 YAML       35 mins         ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.11 %
