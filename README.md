@@ -2,10 +2,10 @@
 <img src="https://legoshi.hyper.lol/img/banner.jpg"/>
 <h1>hyperdefined</h1>
 
-Student, developer, furry, and complete idiot.
+<a href="https://twitter.com/hyperdefined/">Twitter</a> | <a href="https://reddit.com/user/hyperdefined">Reddit</a> | <a href="https://keybase.io/deactivated">Keybase</a> | <a href="https://hyper.lol">Website</a>
 
-<a href="https://reddit.com/user/hyperdefined">Reddit</a> | <a href="https://keybase.io/deactivated">Keybase</a> | <a href="https://hyper.lol">Website</a> | <a href="https://discord.bio/p/hyperdefined">Discord</a> | <a href="https://steamcommunity.com/id/hyperdefined/">Steam</a> | <a href="https://twitter.com/hyperdefined/">Twitter</a>
-
+_Profile picture made by [@CedronRohuta](https://twitter.com/CedronRohuta)._
+  
 <details>
   <summary>Stats</summary><br>
   
