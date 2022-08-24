@@ -4,7 +4,7 @@
 
 <a href="https://twitter.com/hyperdefined/">Twitter</a> | <a href="https://reddit.com/user/hyperdefined">Reddit</a> | <a href="https://keybase.io/deactivated">Keybase</a> | <a href="https://hyper.lol">Website</a>
 
-_Profile picture made by [@CedronRohuta](https://twitter.com/CedronRohuta)._
+_Profile picture made by [@aymstrongtozaki](https://twitter.com/aymstrongtozaki)._
   
 <details>
   <summary>Stats</summary><br>
