@@ -2,9 +2,7 @@
 <img src="https://legoshi.hyper.lol/img/banner.jpg"/>
 <h1>hyperdefined</h1>
 
-<a href="https://twitter.com/hyperdefined/">Twitter</a> | <a href="https://reddit.com/user/hyperdefined">Reddit</a> | <a href="https://keybase.io/deactivated">Keybase</a> | <a href="https://hyper.lol">Website</a>
-
-_Profile picture made by [@aymstrongtozaki](https://twitter.com/aymstrongtozaki)._
+<a href="https://twitter.com/hyperdefined/">Twitter</a> | <a href="https://hyper.lol">Website</a>
   
 <details>
   <summary>Stats</summary><br>
