@@ -9,6 +9,8 @@
   
   ![](https://komarev.com/ghpvc/?username=hyperdefined&color=blue)
   
+  [![wakatime](https://wakatime.com/badge/user/992a7647-176a-477c-8086-e1abfba87ff4.svg)](https://wakatime.com/@992a7647-176a-477c-8086-e1abfba87ff4)
+  
   ![hyperdefineds's github stats](https://github-readme-stats.vercel.app/api?username=hyperdefined&count_private=true&show_icons=true&theme=tokyonight&disable_animations=true&include_all_commits=true)
 
 <!--START_SECTION:waka-->
