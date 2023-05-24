@@ -1,6 +1,8 @@
 <div align="center">
-<img src="https://legoshi.hyper.lol/img/banner.jpg"/>
+<img src="https://hyper.lol/art/relaxing.jpg" height="500px">
 <h1>hyperdefined</h1>
+fluffy system admin & developer
+
 
 <a href="https://twitter.com/hyperdefined/">Twitter</a> | <a href="https://hyper.lol">Website</a>
   
