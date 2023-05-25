@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://hyper.lol/art/relaxing.jpg" height="500px">
+<img src="https://hyper.lol/art/relaxing.jpg" width="60%">
 <h1>hyperdefined</h1>
 fluffy system admin & developer
 
