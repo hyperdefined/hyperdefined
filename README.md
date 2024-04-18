@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://hyper.lol/assets/art/field.png" width="60%">
 <h1>hyperdefined</h1>
-fluffy system admin & developer
+fluffy flower wolf | IT nerd & dev | fursuiter
 
 
 <a href="https://twitter.com/hyperdefined/">Twitter</a> | <a href="https://hyper.lol">Website</a>
