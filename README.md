@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://hyper.lol/assets/art/field.png" width="60%">
+<img src="https://hyper.lol/assets/images/pages/fursona2.jpg" width="40%">
 <h1>hyperdefined</h1>
 fluffy flower wolf | IT nerd & dev | fursuiter
 
