@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.imgur.com/QYYFjAE.png" width="90%">
+<img src="https://imagedelivery.net/GWpL3YoIe0wj5_zHZfF0dA/82fa9b34-5030-4f2b-328d-e60556111300/public" width="30%">
 <h1>hyperdefined</h1>
 fluffy flower wolf | IT nerd & dev | fursuiter
 
