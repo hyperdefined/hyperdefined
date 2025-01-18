@@ -4,7 +4,7 @@
 fluffy flower wolf | IT nerd & dev | fursuiter
 
 
-<a href="https://bsky.app/profile/hyper.lol">Bluesky</a> | <a href="https://hyper.lol">Website</a>
+<a href="https://x.com/hyperdefined">Twitter</a> | <a href="https://hyper.lol">Website</a>
   
 <details>
   <summary>Stats</summary><br>
