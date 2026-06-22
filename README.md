@@ -1,1 +1,1 @@
-If you are looking for my projects, I've moved most over to [Codeberg](https://codeberg.org/hyperdefined?tab=repositories).
+If you are looking for my projects, I've moved over to [Codeberg](https://codeberg.org/hyperdefined?tab=repositories).
